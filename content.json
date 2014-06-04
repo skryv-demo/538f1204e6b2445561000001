@@ -29,7 +29,8 @@
             "lengte": {},
             "gewicht": {},
             "systolische_bloeddruk": {},
-            "diastolische_bloeddruk": {}
+            "diastolische_bloeddruk": {},
+            "insulinedosis_iedag": null
         },
         "screenings": {
             "coeliakie": {
